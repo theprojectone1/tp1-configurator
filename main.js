@@ -1,0 +1,1 @@
+document.getElementById("root").innerHTML = "<h1>¡Bienvenido al Configurador TP1!</h1>";
